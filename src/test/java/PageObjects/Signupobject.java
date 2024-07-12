@@ -23,7 +23,7 @@ public class Signupobject {
 	 public void Enternmaeandemail()
 	 {
 		 name.sendKeys("abcx");
-		 email.sendKeys("doih@gmail.com");
+		 email.sendKeys("doihgh@gmail.com");
 	 }
 	 @FindBy(xpath = "//button[text()='Signup']")
 	  private WebElement Signup ;
